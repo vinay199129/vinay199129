@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/vinay-pratap-singh-bhadauria/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.credly.com/users/vinay-pratap-singh-bhadauria/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+  <a href="https://vinay199129.github.io/dsa-zth/"><img src="https://img.shields.io/badge/DSA_Prep-Zero_to_Hero-00C853?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA Prep"/></a>
   <a href="mailto:vinay199129@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.instagram.com/vinay_bhadauria_official/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </p>
