@@ -1,6 +1,4 @@
 <h1 align="center">
-  <img src="https://vinay199129.github.io/portfolio/assets/images/profile-pic.jpg" width="150" style="border-radius:50%" alt="Vinay Pratap Singh"/>
-  <br/>
   Hi, I'm Vinay Pratap Singh 👋
 </h1>
 
@@ -10,7 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://vinay199129.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0078D4?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/vinay-pratap-singh-bhadauria/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.credly.com/users/vinay-pratap-singh-bhadauria/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
   <a href="mailto:vinay199129@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -103,9 +100,9 @@ Key architecture patterns and topics I advocate through talks, mentoring, and en
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinay199129&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vinay199129&theme=dark&hide_border=false" alt="Streak Stats"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay199129&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats-vinay199129.vercel.app/api?username=vinay199129&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay199129&theme=dark&hide_border=false" alt="Streak Stats"/><br/>
+  <img src="https://github-readme-stats-vinay199129.vercel.app/api/top-langs/?username=vinay199129&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ## 🏆 GitHub Trophies
