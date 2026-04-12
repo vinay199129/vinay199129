@@ -101,15 +101,15 @@ Key architecture patterns and topics I advocate through talks, mentoring, and en
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-vinay199129.vercel.app/api?username=vinay199129&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinay199129&theme=dark&hide_border=false" alt="Streak Stats"/><br/>
-  <img src="https://github-readme-stats-vinay199129.vercel.app/api/top-langs/?username=vinay199129&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinay199129&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+  <img src="https://streak-stats.demolab.com/?user=vinay199129&theme=dark&hide_border=false" alt="Streak Stats"/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinay199129&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinay199129&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=vinay199129&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ### ✍️ Random Dev Quote
