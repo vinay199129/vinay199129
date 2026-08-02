@@ -1,0 +1,48 @@
+name: Sync latest writing
+
+# Regenerates the ARTICLES block in README.md from articles.json in the site repo,
+# so the article list has exactly one source of truth.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch articles.json
+        id: fetch
+        run: |
+          set -euo pipefail
+          URL="https://raw.githubusercontent.com/vinay199129/vinay199129.github.io/main/articles.json"
+          if curl -fsSL "$URL" -o articles.json; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::notice::articles.json not reachable yet at $URL — skipping."
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Rewrite the ARTICLES block
+        if: steps.fetch.outputs.found == 'true'
+        run: python3 .github/scripts/sync_articles.py
+
+      - name: Commit if changed
+        if: steps.fetch.outputs.found == 'true'
+        run: |
+          rm -f articles.json
+          if git diff --quiet -- README.md; then
+            echo "README already up to date."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: sync latest writing from articles.json"
+          git push
