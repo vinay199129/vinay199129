@@ -11,7 +11,7 @@ import json
 import pathlib
 import sys
 
-SITE = "https://vinay199129.github.io"
+SITE = "https://vinay-p-singh.github.io"
 MAX_ITEMS = 5
 START = "<!-- ARTICLES:START -->"
 END = "<!-- ARTICLES:END -->"

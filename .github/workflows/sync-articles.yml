@@ -21,7 +21,7 @@ jobs:
         id: fetch
         run: |
           set -euo pipefail
-          URL="https://raw.githubusercontent.com/vinay199129/vinay199129.github.io/main/articles.json"
+          URL="https://raw.githubusercontent.com/vinay-p-singh/vinay-p-singh.github.io/main/articles.json"
           if curl -fsSL "$URL" -o articles.json; then
             echo "found=true" >> "$GITHUB_OUTPUT"
           else

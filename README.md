@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://vinay199129.github.io/"><img src="https://img.shields.io/badge/Writing-vinay199129.github.io-58A6FF?style=for-the-badge&logo=readme&logoColor=white" alt="Writing"/></a>
-  <a href="https://vinay199129.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://vinay-p-singh.github.io/"><img src="https://img.shields.io/badge/Writing-vinay-p-singh.github.io-58A6FF?style=for-the-badge&logo=readme&logoColor=white" alt="Writing"/></a>
+  <a href="https://vinay-p-singh.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/vinay-pratap-singh-bhadauria/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.credly.com/users/vinay-pratap-singh-bhadauria/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
   <a href="mailto:vinay199129@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -21,10 +21,10 @@ Solution Architect with 14 years designing enterprise Azure and GenAI systems fo
 
 | Where to go | What's there |
 |---|---|
-| 📝 **[Writing](https://vinay199129.github.io/)** | Long-form pieces on software design and AI-assisted engineering |
-| 📂 **[Portfolio](https://vinay199129.github.io/portfolio/)** | Full background, projects, certifications, and speaking |
-| 📄 **[Résumé](https://vinay199129.github.io/portfolio/pages/resume.html)** | Experience, awards, and recognition in detail |
-| 🧭 **[Resources](https://vinay199129.github.io/portfolio/pages/resources.html)** | Interactive dashboards — [DSA](https://vinay199129.github.io/dsa-zth/) and [System Design](https://vinay199129.github.io/system-design-zth/) |
+| 📝 **[Writing](https://vinay-p-singh.github.io/)** | Long-form pieces on software design and AI-assisted engineering |
+| 📂 **[Portfolio](https://vinay-p-singh.github.io/portfolio/)** | Full background, projects, certifications, and speaking |
+| 📄 **[Résumé](https://vinay-p-singh.github.io/portfolio/pages/resume.html)** | Experience, awards, and recognition in detail |
+| 🧭 **[Resources](https://vinay-p-singh.github.io/portfolio/pages/resources.html)** | Interactive dashboards — [DSA](https://vinay-p-singh.github.io/dsa-zth/) and [System Design](https://vinay-p-singh.github.io/system-design-zth/) |
 
 ---
 
@@ -33,9 +33,9 @@ Solution Architect with 14 years designing enterprise Azure and GenAI systems fo
 <!-- ARTICLES:START -->
 | | Article | Topics |
 |---|---|---|
-| `2026-07-31` | **[Software fundamentals matter more than ever](https://vinay199129.github.io/articles/software-fundamentals-matter-more-than-ever/)** | Software design · AI-assisted engineering · Code quality |
+| `2026-07-31` | **[Software fundamentals matter more than ever](https://vinay-p-singh.github.io/articles/software-fundamentals-matter-more-than-ever/)** | Software design · AI-assisted engineering · Code quality |
 
-[All writing →](https://vinay199129.github.io/)
+[All writing →](https://vinay-p-singh.github.io/)
 <!-- ARTICLES:END -->
 
 <p align="right"><sub>Generated from <code>articles.json</code> — do not edit this block by hand.</sub></p>
@@ -68,15 +68,15 @@ Solution Architect with 14 years designing enterprise Azure and GenAI systems fo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinay199129&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
-  <img src="https://streak-stats.demolab.com/?user=vinay199129&theme=dark&hide_border=false" alt="Streak Stats"/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinay199129&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinay-p-singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+  <img src="https://streak-stats.demolab.com/?user=vinay-p-singh&theme=dark&hide_border=false" alt="Streak Stats"/><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinay-p-singh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=vinay199129&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=vinay-p-singh&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=vinay199129&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vinay-p-singh&icon=0&color=0)](https://visitcount.itsvg.in)
