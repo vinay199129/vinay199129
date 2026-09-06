@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <strong>Solution Architect &amp; Lead Consultant</strong> · 14 Years · Microsoft India<br/>
-  Enterprise Azure &amp; GenAI · Platform Engineering · Technical Leadership
+  <strong>AI &amp; Cloud Architect | Agentic AI, Azure &amp; Enterprise Platforms</strong><br/>
+  14 years of enterprise delivery experience · Microsoft India
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ---
 
-Solution Architect with 14 years designing enterprise Azure and GenAI systems for global clients — architecture ownership, delivery risk, cost optimisation, and secure platforms deployed across regions.
+AI and cloud architect with 14 years of enterprise delivery experience. I design Azure and GenAI solutions with evaluation, observability, and governance, combining hands-on engineering with architecture ownership and technical leadership.
 
 | Where to go | What's there |
 |---|---|
