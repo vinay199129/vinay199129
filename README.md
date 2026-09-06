@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vinay-p-singh.github.io/"><img src="https://img.shields.io/badge/Writing-vinay-p-singh.github.io-58A6FF?style=for-the-badge&logo=readme&logoColor=white" alt="Writing"/></a>
+  <a href="https://vinay-p-singh.github.io/"><img src="https://img.shields.io/badge/Writing-vinay--p--singh.github.io-58A6FF?style=for-the-badge&logo=readme&logoColor=white" alt="Writing"/></a>
   <a href="https://vinay-p-singh.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/vinay-pratap-singh-bhadauria/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.credly.com/users/vinay-pratap-singh-bhadauria/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
